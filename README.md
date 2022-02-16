@@ -1,2 +1,2 @@
-# studies
-Front-end Studies: HTML, CSS, JavaScript, ReactJS framework
+# Curso HTML5-CSS3
+Front-end Studies: HTML, CSS
