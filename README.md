@@ -1,1 +1,1 @@
-## Série Front-end do começo: Desenvolvimento Web
+## Beginning Front-end Series: Web Development
